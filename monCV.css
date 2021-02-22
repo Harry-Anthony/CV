@@ -1,0 +1,78 @@
+#titleEtat
+{
+    display: inline-block;
+}
+#etat
+{
+    display: inline-block;
+    margin-left: 100px;
+    vertical-align: top;
+}
+h1
+{
+    text-align: center;
+    background-color: #9FE855 ;
+    border: 1px #9FE855 solid;
+    margin: 20px;
+    border-radius: 10px;
+}
+h2
+{
+    background-color: cyan;
+    border: 1px cyan solid;
+    border-radius: 10px;
+}
+header
+{
+    margin-bottom: 60px;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    border: 0px blue solid;
+    border-radius: 10px;
+}
+#image
+{
+    text-align: right;
+    margin-right: 100px;
+}
+#titleDiplome
+{
+    display: inline-block;
+}
+#diplome
+{
+    display: inline-block;
+    vertical-align: top; 
+    margin-left: 100px;  
+}
+li
+{
+    margin-bottom: 10px;
+}
+h3
+{
+    display: inline-block;
+}
+#Connaissances, #apt, #ling, #loisir
+{
+    margin-left: 200px;
+}
+.foot
+{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.divEtat, .divDiplome, .divLing, .divLoisir, .divApt, .divConnaissance
+{
+    border: 1px green solid;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+} 
+mail
+{
+    color: blue
+}
